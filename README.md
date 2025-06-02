@@ -1,7 +1,5 @@
 ## Project Name: Product Hunt Backend
 
-### Category: Assignment Category - 15
-
 ### Admin Information:
 
 - Name: Admin
@@ -11,8 +9,6 @@
 ## Website Links:
 
 - Frontend: https://product-huntapp.web.app
-- Backend: https://product-hunt-backend.vercel.app
-
 ## Description:
 
 This project is a backend application for a Product Hunt API. It allows users to create, update, and delete products, coupons, users, and reviews. It also provides a user authentication system and role-based access control.
@@ -52,9 +48,3 @@ This project is a backend application for a Product Hunt API. It allows users to
 - **Cookies**: A small, simple, and easy-to-use session middleware for Node.js.
 - **Slugify**: A Node.js library for generating slugs from strings.
 
-## Screenshots:
-
-![Screenshot 1](./public/1.jpeg)
-![Screenshot 2](./public/2.jpeg)
-![Screenshot 3](./public/3.jpeg)
-![Screenshot 4](./public/4.jpeg)
